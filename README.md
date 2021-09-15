@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MonkeeAlert (but friends can call me Sergey)
 - 👀 I’m interested in hiking, horrors and writting web applications on React 
-- 🌱 I’m currently learning NodeJS (wannabe fullstack webdev)
+- 🌱 I’m currently working as a React Native Developer in EFSOL
 - 📫 How to reach me: write me an email (itszakharov.webdev@gmail.com)
 
 <!---
