@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MonkeeAlert (but friends call me Sergey)
-- 👀 I’m interested in hiking, horrors and writting apps on React 
+- 👀 I’m interested in hiking, horrors and writing apps on React 
 - 🌱 I’m currently working as a React Native Developer in EFSOL
 - 📫 How to reach me: write me an email (itszakharov.webdev@gmail.com)
 
